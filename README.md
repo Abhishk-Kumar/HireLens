@@ -1,4 +1,4 @@
-# 🧠 ResumeIQ — AI Resume Screener
+# 🧠 HireLens — AI Resume Screener
 
 An AI-powered resume screening tool that compares multiple resumes against a job description and provides ranked results with detailed feedback, ATS keyword analysis, and improvement suggestions.
 

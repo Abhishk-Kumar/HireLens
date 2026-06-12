@@ -14,7 +14,7 @@ load_dotenv()
 
 # ─── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="ResumeIQ — AI Resume Screener",
+    page_title="HireLens — AI Resume Screener",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded",
